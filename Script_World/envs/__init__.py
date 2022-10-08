@@ -1,1 +1,1 @@
-from gym_env.envs.Script_World import ScriptWorld
+from Script_World.envs.Script_World import ScriptWorldEnv
